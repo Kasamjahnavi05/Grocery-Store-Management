@@ -107,3 +107,7 @@ USE GROCERY_STORE;
   - Views
   - Employee & Supplier Performance Queries
   - Revenue Analysis Queries
+  
+### ✅ Conclusion :
+
+- This SQL project gave me practical experience in building a structured database and performing data analysis for a grocery store system. By working on schema design and analytical queries, I improved my technical skills and learned how SQL can support business insights and decision-making. This project plays an important role in my journey toward becoming a data analyst.
